@@ -9,7 +9,7 @@ nav:
 
 Here are some of our current projects - mostly focusing on simulating genomic data, and Galapagos taxa.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="Galapagos, Adaptive-Radiation, Genomics, Genome" %}
 
 {% include search-info.html %}
 
