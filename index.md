@@ -49,7 +49,7 @@ Read on our current projects and study systems.
 
 {%
   include feature.html
-  image="images/TetragnathaEcotypes.png"
+  image="images/Tetragnatha.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/mapHawaii.png"
   link="team"
   title="Our Team"
   text=text
