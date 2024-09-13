@@ -49,7 +49,7 @@ Read on our current projects and study systems.
 
 {%
   include feature.html
-  image="images/scalesia.jpg"
+  image="images/TetragnathaEcotypes.png"
   link="projects"
   title="Our Projects"
   flip=true
