@@ -3,6 +3,8 @@ title: Contact
 nav:
   order: 5
   tooltip: Email, address, and location
+  header: images/firewatch_v3.png
+  footer: images/firewatch_v3.png
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
