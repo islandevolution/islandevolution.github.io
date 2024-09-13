@@ -26,7 +26,7 @@ Read more on our research - broadly what we do.
 
 {%
   include feature.html
-  image="images/scalesia.jpg"
+  image="images/mapHawaii.png"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ Read on our current projects and study systems.
 
 {%
   include feature.html
-  image="images/Tetragnatha.png"
+  image="images/scalesia.jpg"
   link="projects"
   title="Our Projects"
   flip=true
