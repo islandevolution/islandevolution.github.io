@@ -19,7 +19,11 @@ footer: images/hawaii.jpg
 Website created. More news to follow!
 
 <!--- 
-Note to self - If I want to add imaegs and not keep just a list, I need to remove the arrow above and below
+***Note to self*** - If I want to add imaegs and not keep just a list, I need to remove the {% comment %} {% endcomment %} sections. the arrow above and below, hide this comment.
+-->
+
+{% comment %}
+
 {% include section.html %}
 
 {% include search-box.html %}
@@ -30,5 +34,5 @@ Note to self - If I want to add imaegs and not keep just a list, I need to remov
 
 {% include list.html data="posts" component="post-excerpt" %}
 
--->
+{% endcomment %}
 
