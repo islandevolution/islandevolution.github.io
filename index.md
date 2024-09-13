@@ -1,7 +1,7 @@
 ---
 ---
 
-# Island biology, Diversification dynamics, Genome evolution Group (IDGG)
+# Welcome to the website of the Island biology, Diversification dynamics, Genome evolution Group (IDGG)
 
 
 
@@ -11,12 +11,12 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Read more on our research - broadly what we do.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Read about our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/scalesia.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Read on our current projects and study systems.
 
 {%
   include button.html
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/scalesia.jpg"
   link="projects"
   title="Our Projects"
   flip=true
