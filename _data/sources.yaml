@@ -1,23 +1,19 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1016/j.tree.2023.02.003
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Our review of adaptive radiations across oceanic archipelagos!
   date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0169534723000320-b1.jpg
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
     - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+      text: Link for the paper
+      link: https://www.sciencedirect.com/science/article/pii/S0169534723000320
   tags:
-    - open science
-    - collaboration
+    - Adaptive radiation
+    - Oceanic islands
   repo: greenelab/meta-review
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1093/evolinnean/kzae005
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolinnean/3/1/10.1093_evolinnean_kzae005/2/m_kzae005_fig2.jpeg?Expires=1728567280&Signature=uvj~Kzq1z8AG2DqjMdadxmhY9ru~Ik2GJRfJ1dtVCr~NglzeHqPn3O9TP5Ynmh~KKTdIOnsgxsd27TUsdon7zyfYMV0j6KxZ0Z-POovURmrL3M0Dp0LewhfLFiP3gMQ07-IsZw4~x8jQIB~ZXmaJtL1D8OpEDeESSZ4lJWaO7gOpDK~2losVhNuS4qWmlDG19BF12iY~rzzj3XAzm7Ycg1iiRz8VCrLppGxWAo5qfDEnRbhlh3Xt4yRdQXlyDTqd3aswVyIhpr6yha8OzL8~Bf4yS1fwZ~j5fUksoI-7TAoAXy24XJeKkTtYQ69rC09cfQRjij9VP-JUrtZq86U~zw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1111/mec.17082
+  image: https://onlinelibrary.wiley.com/cms/asset/d278da85-4ba5-42ae-b5e0-53600f8749f5/mec17082-fig-0001-m.jpg
