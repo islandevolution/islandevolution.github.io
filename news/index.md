@@ -16,6 +16,7 @@ footer: images/hawaii.jpg
 ---
 
 #### 2024
+José was awarded a Young Researcher Grant from the Norwegian Research Council (8,000,000 NOK) - we will be hiring soon!
 Website created. More news to follow!
 
 <!--- 
