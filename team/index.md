@@ -21,10 +21,18 @@ If you would like to join us, feel free to contact the group coordinator. Contac
 
 {% capture content %}
 
+<!--- 
+***Note to self*** - If I want to add images I need to remove the {% comment %} {% endcomment %} sections. the arrow above and below, hide this comment.
+-->
+
+{% comment %}
+
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
+
+{% endcomment %}
 
 {% include grid.html style="square" content=content %}
