@@ -1,10 +1,9 @@
 - title: IslandParadox
   subtitle: Unraveling the Paradox of Genetic Diversity in Isolated Oceanic Lineages
   group: featured
-  image: images/System.png
+  image: images/scalesia.jpg
 #  link: https://github.com/
   description: Despite the constraints imposed by founder events, small population sizes, and inbreeding, these radiations exhibit remarkable ecological and phenotypic diversity, prompting the question - how do isolated lineages generate and maintain genetic diversity?
-  # repo: greenelab/lab-website-template
   tags:
     - Adaptive radiation
     - Genomics
@@ -19,24 +18,22 @@
     - Adaptive Radiation
     - Island biology
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Bottlenecks vs hybridization
+  subtitle: Frasella's MSc thesis
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: How do Bottlenecks affect our ability to detect hybridization?
   tags:
-    - resource
-    - publication
+    - genomics
+    - simulation of data
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Genetic load in an insular Heliconius
+  subtitle: Geraldines MSc thesis
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: In collaboration with the U of the Rosario we are 
   tags:
-    - software
+    - Heliconius
+    - Adaptive radiation
+    - Genomics
 
 - title: Cool Web Server
   subtitle: a subtitle
