@@ -1,6 +1,6 @@
 ---
 name: Geraldine Rueda
-image: images/photo.jpg
+image: images/geral.jpeg
 description: Master student
 role: msc
 links:
