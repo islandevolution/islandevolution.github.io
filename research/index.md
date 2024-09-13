@@ -21,11 +21,6 @@ While we do not keep a curated collection of publications exclusive to the labor
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
 
 ## All
 
