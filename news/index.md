@@ -15,7 +15,11 @@ footer: images/hawaii.jpg
 
 ---
 
+#### 2024
+Website created. More news to follow!
 
+<!--- 
+Note to self - If I want to add imaegs and not keep just a list, I need to remove the arrow above and below
 {% include section.html %}
 
 {% include search-box.html %}
@@ -25,3 +29,6 @@ footer: images/hawaii.jpg
 {% include search-info.html %}
 
 {% include list.html data="posts" component="post-excerpt" %}
+
+-->
+
