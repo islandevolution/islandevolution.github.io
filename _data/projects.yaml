@@ -13,12 +13,11 @@
 - title: Ecological disparity in adaptive radiation
   subtitle: Are adaptive radiations predictable?
   group: featured
-  image: images/scalesia.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/finches.jpg
+  description: This is a project focusing on phylogenetic and ecological data
   tags:
-    - resource
+    - Adaptive Radiation
+    - Island biology
 
 - title: Cool Tutorial
   subtitle: a subtitle
