@@ -1,6 +1,6 @@
 ---
 name: Frasella De Martino
-image: images/photo.jpg
+image: images/frasella.JPEG
 description: Master student
 role: msc
 links:
