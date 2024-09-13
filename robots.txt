@@ -1,1 +1,1 @@
-Sitemap: https://islandevolution.github.io/sitemap.xml
+Sitemap: https://islandevolution.github.io/old_islandevolution.github.io/sitemap.xml
