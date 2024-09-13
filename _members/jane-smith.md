@@ -1,6 +1,6 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: José Cerca
+image: images/cerca_grinnyphoto.jpg
 role: pi
 affiliation: University of Colorado
 aliases:
