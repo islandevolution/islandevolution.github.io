@@ -5,7 +5,7 @@ nav:
   tooltip: What's up with us
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
 Here we share our latest news - conferences, grants, papers, new members, events, everything we're doing.
 
