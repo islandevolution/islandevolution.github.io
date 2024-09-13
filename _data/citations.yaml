@@ -1,174 +1,536 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1093/evolinnean/kzae021
+  title: "Darwin\u2019s overlooked radiation: genomic evidence points to the early\
+    \ stages of a radiation in the Gal\xE1pagos prickly pear cactus (<i>Opuntia,</i>\
+    \ Cactaceae)"
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Felipe Zapata
+  - "Jos\xE9 Cerca"
+  - Dana McCarney
+  - Claudia L Henriquez
+  - Bashir B Tiamiyu
+  - John E McCormack
+  - Kelsey R Reckling
+  - Jaime A Chaves
+  - Gonzalo Rivas-Torres
+  publisher: Evolutionary Journal of the Linnean Society
+  date: '2024-09-02'
+  link: https://doi.org/gwmzh2
+  orcid: 0000-0001-7788-4367
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1101/2024.06.28.599671
+  title: Reference genome bias in light of species-specific chromosomal reorganization
+    and translocations
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Marius F. Maurstad
+  - Siv Nam Khang Hoff
+  - "Jos\xE9 Cerca"
+  - Mark Ravinet
+  - Ian Bradbury
+  - Kjetill S. Jakobsen
+  - "Kim Pr\xE6bel"
+  - Sissel Jentoft
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2024-06-28'
+  link: https://doi.org/gwmzh6
+  orcid: 0000-0001-7788-4367
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1093/evolinnean/kzae005
+  title: Consistent accumulation of transposable elements in species of the Hawaiian
+    <i>Tetragnatha</i> spiny-leg adaptive radiation across the archipelago chronosequence
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Heidi Yang
+  - "Cl\xE9ment Goubert"
+  - Darko D Cotoras
+  - Dimitar Dimitrov
+  - Natalie R Graham
+  - "Jos\xE9 Cerca"
+  - Rosemary G Gillespie
+  publisher: Evolutionary Journal of the Linnean Society
+  date: '2024-01-01'
+  link: https://doi.org/gwmzh7
+  orcid: 0000-0001-7788-4367
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1002/ajb2.16272
+  title: Fruit wings accelerate germination in <i>Anacyclus clavatus</i>
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - "Rub\xE9n Torices"
+  - "Luc\xEDa DeSoto"
+  - "Jos\xE9 Cerca"
+  - Lucie Mota
+  - Ana Afonso
+  - Cristina Poyatos
+  publisher: American Journal of Botany
+  date: '2024-01-01'
+  link: https://doi.org/gwmzjc
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/cshperspect.a041455
+  title: Anthropogenic Change and the Process of Speciation
+  authors:
+  - "Murielle \xC5lund"
+  - Meredith Cenzer
+  - Nicolas Bierne
+  - Janette W. Boughman
+  - "Jos\xE9 Cerca"
+  - Mattheau S. Comerford
+  - Alessandro Culicchi
+  - Brian Langerhans
+  - S. Eryn McFarlane
+  - "Markus H. M\xF6st"
+  - Henry North
+  - "Anna Qvarnstr\xF6m"
+  - Mark Ravinet
+  - "Richard Svanb\xE4ck"
+  - Scott A. Taylor
+  publisher: Cold Spring Harbor Perspectives in Biology
+  date: '2023-10-03'
+  link: https://doi.org/gs9x7d
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.10.03.560736
+  title: "Darwin\u2019s Overlooked Radiation: genomic evidence points to the early\
+    \ stages of a radiation in the Gal\xE1pagos prickly pear cactus (<i>Opuntia,</i>Cactaceae)"
+  authors:
+  - Felipe Zapata
+  - "Jos\xE9 Cerca"
+  - Dana McCarney
+  - Claudia L. Henriquez
+  - Bashir B. Tiamiyu
+  - John E. McCormack
+  - Kelsey R. Reckling
+  - Jaime A. Chaves
+  - Gonzalo Rivas-Torres
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2023-10-05'
+  link: https://doi.org/gwmzjd
+  orcid: 0000-0001-7788-4367
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1111/mec.17132
+  title: 'Understanding natural selection and similarity: Convergent, parallel and
+    repeated evolution'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - "Jos\xE9 Cerca"
+  publisher: Molecular Ecology
+  date: '2023-09-19'
+  link: https://doi.org/gwmzjj
+  orcid: 0000-0001-7788-4367
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1111/mec.17082
+  title: "Multiple paths toward repeated phenotypic evolution in the spiny\u2010leg\
+    \ adaptive radiation (<i>Tetragnatha</i>; Hawai'i)"
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - "Jos\xE9 Cerca"
+  - Darko D. Cotoras
+  - Cindy G. Santander
+  - Vanessa C. Bieker
+  - Leke Hutchins
+  - "Jaime Morin\u2010Lagos"
+  - Carlos F. Prada
+  - Susan Kennedy
+  - Henrik Krehenwinkel
+  - Andrew J. Rominger
+  - Joana Meier
+  - Dimitar Dimitrov
+  - Torsten H. Struck
+  - Rosemary G. Gillespie
+  publisher: Molecular Ecology
+  date: '2023-07-29'
+  link: https://doi.org/gwmzjk
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tree.2023.02.003
+  title: Evolutionary genomics of oceanic island radiations
+  authors:
+  - "Jos\xE9 Cerca"
+  - Darko D. Cotoras
+  - Vanessa C. Bieker
+  - Rishi De-Kayne
+  - Pablo Vargas
+  - "Mario Fern\xE1ndez-Mazuecos"
+  - "Julia L\xF3pez-Delgado"
+  - Oliver White
+  - Martin Stervander
+  - Anthony J. Geneva
+  - Juan Ernesto Guevara Andino
+  - Joana Isabel Meier
+  - Lizzie Roeble
+  - "Baptiste Br\xE9e"
+  - "Jairo Pati\xF1o"
+  - Juan M. Guayasamin
+  - "Mar\xEDa de Lourdes Torres"
+  - Hugo Valdebenito
+  - "Mar\xEDa del Rosario Casta\xF1eda"
+  - Jaime A. Chaves
+  - "Patricia Jaramillo D\xEDaz"
+  - Luis Valente
+  - Matthew L. Knope
+  - Jonathan P. Price
+  - Loren H. Rieseberg
+  - Bruce G. Baldwin
+  - Brent C. Emerson
+  - Gonzalo Rivas-Torres
+  - Rosemary Gillespie
+  - Michael D. Martin
+  publisher: Trends in Ecology &amp; Evolution
+  date: '2023-07-01'
+  link: https://doi.org/gsccvk
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.11.29.518358
+  title: Multiple paths towards repeated phenotypic evolution in the spiny-leg adaptive
+    radiation (<i>Tetragnatha</i>; Hawaii)
+  authors:
+  - "Jos\xE9 Cerca"
+  - Darko D. Cotoras
+  - Cindy G. Santander
+  - Vanessa C. Bieker
+  - Leke Hutchins
+  - Jaime Morin-Lagos
+  - Carlos F. Prada
+  - Susan Kennedy
+  - Henrik Krehenwinkel
+  - Andrew J. Rominger
+  - Joana Meier
+  - Dimitar Dimitrov
+  - Torsten H. Struck
+  - Rosemary G. Gillespie
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2022-12-02'
+  link: https://doi.org/gwmzjp
+  orcid: 0000-0001-7788-4367
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.32942/OSF.IO/G8U39
+  title: A simple conceptual framework and nomenclature for studying repeated, parallel
+    and convergent evolution
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - "Jos\xE9 Cerca"
+  publisher: California Digital Library (CDL)
+  date: '2022-06-28'
+  link: https://doi.org/gwmzjr
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-022-31280-w
+  title: "The genomic basis of the plant island syndrome in Darwin\u2019s giant daisies"
+  authors:
+  - "Jos\xE9 Cerca"
+  - Bent Petersen
+  - "Jos\xE9 Miguel Lazaro-Guevara"
+  - "Angel Rivera-Col\xF3n"
+  - Siri Birkeland
+  - Joel Vizueta
+  - Siyu Li
+  - Qionghou Li
+  - "Jo\xE3o Loureiro"
+  - Chatchai Kosawang
+  - "Patricia Jaramillo D\xEDaz"
+  - Gonzalo Rivas-Torres
+  - "Mario Fern\xE1ndez-Mazuecos"
+  - Pablo Vargas
+  - Ross A. McCauley
+  - Gitte Petersen
+  - Luisa Santos-Bay
+  - Nathan Wales
+  - Julian M. Catchen
+  - Daniel Machado
+  - Michael D. Nowak
+  - Alexander Suh
+  - Neelima R. Sinha
+  - Lene R. Nielsen
+  - Ole Seberg
+  - M. Thomas P. Gilbert
+  - James H. Leebens-Mack
+  - Loren H. Rieseberg
+  - Michael D. Martin
+  publisher: Nature Communications
+  date: '2022-06-28'
+  link: https://doi.org/gqmrss
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-022-09868-5
+  title: High genomic diversity in the endangered East Greenland Svalbard Barents
+    Sea stock of bowhead whales (Balaena mysticetus)
+  authors:
+  - "Jos\xE9 Cerca"
+  - Michael V. Westbury
+  - "Mads Peter Heide-J\xF8rgensen"
+  - Kit M. Kovacs
+  - Eline D. Lorenzen
+  - Christian Lydersen
+  - Olga V. Shpak
+  - "\xD8ystein Wiig"
+  - Lutz Bachmann
+  publisher: Scientific Reports
+  date: '2022-04-12'
+  link: https://doi.org/gwmzjv
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.01.26.477903
+  title: "The genomic basis of the plant island syndrome in Darwin\u2019s giant daisies"
+  authors:
+  - "Jos\xE9 Cerca"
+  - Bent Petersen
+  - "Jos\xE9 Miguel Lazaro Guevara"
+  - "Angel Rivera-Col\xF3n"
+  - Siri Birkeland
+  - Joel Vizueta
+  - Siyu Li
+  - "Jo\xE3o Loureiro"
+  - Chatchai Kosawang
+  - "Patricia Jaramillo D\xEDaz"
+  - Gonzalo Rivas-Torres
+  - "Mario Fern\xE1ndez-Mazuecos"
+  - Pablo Vargas
+  - Ross McCauley
+  - Gitte Petersen
+  - Luisa Santos-Bay
+  - Nathan Wales
+  - Julian Catchen
+  - Daniel Machado
+  - Michael D. Nowak
+  - Alexander Suh
+  - Neelima Sinha
+  - Lene R. Nielsen
+  - Ole Seberg
+  - M. Thomas P. Gilbert
+  - James H. Leebens-Mack
+  - Loren Rieseberg
+  - Michael D. Martin
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-01-28'
+  link: https://doi.org/gwmzjx
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.11646/zootaxa.5081.3.3
+  title: 'A review of the worldwide distribution of Marenzelleria viridis, with new
+    records for M. viridis, M. neglecta and Marenzelleria sp. (Annelida: Spionidae)'
+  authors:
+  - VASILY I. RADASHEVSKY
+  - VICTORIA V. PANKOVA
+  - VASILY V. MALYAR
+  - "JOS\xC9 CERCA"
+  - TORSTEN H. STRUCK
+  publisher: Zootaxa
+  date: '2021-12-13'
+  link: https://doi.org/gwmzj3
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gbe/evab262
+  title: The <i>Tetragnatha kauaiensis</i> Genome Sheds Light on the Origins of Genomic
+    Novelty in Spiders
+  authors:
+  - "Jos\xE9 Cerca"
+  - Ellie E Armstrong
+  - Joel Vizueta
+  - "Rosa Fern\xE1ndez"
+  - Dimitar Dimitrov
+  - Bent Petersen
+  - Stefan Prost
+  - Julio Rozas
+  - Dmitri Petrov
+  - Rosemary G Gillespie
+  publisher: Genome Biology and Evolution
+  date: '2021-11-26'
+  link: https://doi.org/gwmzj4
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/mec.16139
+  title: "Pervasive admixture and the spread of a large\u2010lipped form in a cichlid\
+    \ fish radiation"
+  authors:
+  - Will Sowersby
+  - "Jos\xE9 Cerca"
+  - Bob B. M. Wong
+  - Topi K. Lehtonen
+  - David G. Chapple
+  - "Mariana Leal\u2010Card\xEDn"
+  - Marta Barluenga
+  - Mark Ravinet
+  publisher: Molecular Ecology
+  date: '2021-09-16'
+  link: https://doi.org/gwmzj6
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/2041-210X.13562
+  title: "Removing the bad apples: A simple bioinformatic method to improve loci\u2010\
+    recovery in de novo RADseq data for non\u2010model organisms"
+  authors:
+  - "Jos\xE9 Cerca"
+  - Marius F. Maurstad
+  - Nicolas C. Rochette
+  - "Angel G. Rivera\u2010Col\xF3n"
+  - Niraj Rayamajhi
+  - Julian M. Catchen
+  - Torsten H. Struck
+  publisher: Methods in Ecology and Evolution
+  date: '2021-02-21'
+  link: https://doi.org/gmbkh4
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:33614296
+  title: Incomplete lineage sorting and ancient admixture, and speciation without
+    morphological change in ghost-worm cryptic species.
+  authors:
+  - "Jos\xE9 Cerca"
+  - "Angel G Rivera-Col\xF3n"
+  - Mafalda S Ferreira
+  - Mark Ravinet
+  - Michael D Nowak
+  - Julian M Catchen
+  - Torsten H Struck
+  publisher: PeerJ
+  date: '2021-02-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33614296
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32942/OSF.IO/47TKA
+  title: 'Removing the bad apples: a simple bioinformatic method to improve loci-recovery
+    in de novo RADseq data for non-model organisms'
+  authors:
+  - "Jos\xE9 Cerca"
+  - Marius Maurstad
+  - Nicolas Rochette
+  - "Angel Rivera-Col\xF3n"
+  - Niraj Rayamajhi
+  - Julian Catchen
+  - Torsten Struck
+  publisher: California Digital Library (CDL)
+  date: '2020-08-28'
+  link: https://doi.org/gwmzj9
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/evo.13884
+  title: Deceleration of morphological evolution in a cryptic species complex and
+    its link to paleontological stasis
+  authors:
+  - "Jos\xE9 Cerca"
+  - Christian Meyer
+  - Dave Stateczny
+  - Dominik Siemon
+  - Jana Wegbrod
+  - Gunter Purschke
+  - Dimitar Dimitrov
+  - Torsten H. Struck
+  publisher: Evolution
+  date: '2019-11-26'
+  link: https://doi.org/gwmzkd
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:31669400
+  title: Delimitation of cryptic species drastically reduces the geographical ranges
+    of marine interstitial ghost-worms (Stygocapitella; Annelida, Sedentaria).
+  authors:
+  - "Jos\xE9 Cerca"
+  - Christian Meyer
+  - "G\xFCnter Purschke"
+  - Torsten H Struck
+  publisher: Molecular phylogenetics and evolution
+  date: '2019-10-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31669400
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ajb2.1238
+  title: 'Fitness benefits and costs of floral advertising traits: insights from rayed
+    and rayless phenotypes of<i>Anacyclus</i>(Asteraceae)'
+  authors:
+  - "Jos\xE9 Cerca"
+  - Alicia B. Agudo
+  - "S\xEDlvia Castro"
+  - Ana Afonso
+  - "In\xE9s Alvarez"
+  - "Rub\xE9n Torices"
+  publisher: American Journal of Botany
+  date: '2019-02-01'
+  link: https://doi.org/gjhb2r
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00227-018-3383-2
+  title: 'Marine connectivity dynamics: clarifying cosmopolitan distributions of marine
+    interstitial invertebrates and the meiofauna paradox'
+  authors:
+  - "Jos\xE9 Cerca"
+  - "G\xFCnter Purschke"
+  - Torsten H. Struck
+  publisher: Marine Biology
+  date: '2018-07-10'
+  link: https://doi.org/gdthnk
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tree.2017.11.007
+  title: Finding Evolutionary Processes Hidden in Cryptic Species
+  authors:
+  - Torsten H. Struck
+  - Jeffrey L. Feder
+  - Mika Bendiksby
+  - Siri Birkeland
+  - "Jos\xE9 Cerca"
+  - Vladimir I. Gusarov
+  - Sonja Kistenich
+  - Karl-Henrik Larsson
+  - Lee Hsiang Liow
+  - Michael D. Nowak
+  - Brita Stedje
+  - Lutz Bachmann
+  - Dimitar Dimitrov
+  publisher: Trends in Ecology &amp; Evolution
+  date: '2018-03-01'
+  link: https://doi.org/gc4br6
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3732/ajb.1400030
+  title: The effects of achene type and germination time on plant performance in the
+    heterocarpic <i>Anacyclus clavatus</i> (Asteraceae)
+  authors:
+  - Ana Afonso
+  - "S\xEDlvia Castro"
+  - "Jo\xE3o Loureiro"
+  - Lucie Mota
+  - "Jos\xE9 Cerca de Oliveira"
+  - "Rub\xE9n Torices"
+  publisher: American Journal of Botany
+  date: '2014-05-01'
+  link: https://doi.org/gngtns
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3989/ajbm.2350
+  title: Genome size variation and polyploidy incidence in the alpine flora from Spain
+  authors:
+  - "Jo\xE3o Loureiro"
+  - Mariana Castro
+  - "Jos\xE9 Cerca de Oliveira"
+  - Lucie Mota
+  - "Rub\xE9n Torices"
+  publisher: "Anales del Jard\xEDn Bot\xE1nico de Madrid"
+  date: '2013-06-30'
+  link: https://doi.org/f5btpd
+  orcid: 0000-0001-7788-4367
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +546,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +562,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
