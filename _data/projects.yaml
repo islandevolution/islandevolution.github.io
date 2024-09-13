@@ -3,7 +3,7 @@
   group: featured
   image: images/System.png
 #  link: https://github.com/
-  description: Despite the constraints imposed by founder events, small population sizes, and inbreeding, these radiations exhibit remarkable ecological and phenotypic diversity, prompting the question: how do isolated lineages generate and maintain genetic diversity?
+  description: Despite the constraints imposed by founder events, small population sizes, and inbreeding, these radiations exhibit remarkable ecological and phenotypic diversity, prompting the question - how do isolated lineages generate and maintain genetic diversity?
   # repo: greenelab/lab-website-template
   tags:
     - Adaptive radiation
