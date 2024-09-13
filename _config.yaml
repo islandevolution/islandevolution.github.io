@@ -5,6 +5,8 @@ description:
 header: images/galapagos.jpg
 footer: images/galapagos.jpg
 proofer: false
+header-dark: false
+footer-dark: false
 
 # site social media and other links
 links:
