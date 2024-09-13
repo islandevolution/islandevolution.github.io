@@ -11,7 +11,6 @@ nav:
 
 ---
 ## The best way to contact us is contacting the group coordinator - José Cerca
----
 
 {%
   include button.html
