@@ -20,7 +20,7 @@
 
 - title: Bottlenecks vs hybridization
   subtitle: Frasella's MSc thesis
-  image: images/photo.jpg
+  image: images/hybridz.webp
   description: How do Bottlenecks affect our ability to detect hybridization?
   tags:
     - genomics
@@ -37,7 +37,7 @@
 
 - title: GWAS your way through
   subtitle: Diego's MSc thesis
-  image: images/photo.jpg
+  image: images/finch_simul.webp
   description: We are simulating trait and genomic data to understand the limits of GWAS approaches
   tags:
     - simulation of data
