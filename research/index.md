@@ -16,6 +16,8 @@ Our work explores key themes such as speciation, adaptation, molecular evolution
 **Study Systems**
 We mainly focus on insular systems. Currently, our lab is researching the Galápagos *Scalesia* radiation, Galápagos *Darwiniothamnus* and *Lecocarpus*, the Cabo Verdean endemic sparrow (*Passer iagoensis*), and various lineages from the Malay Archipelago.
 
+**Publications**
+While we do not keep a curated collection of publications exclusive to the laboratory, you can check out the [scholar profile of the group coordinator, José Cerca](https://scholar.google.pt/citations?user=ZI1vWPEAAAAJ&hl=en)
 
 {% include section.html %}
 
