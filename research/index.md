@@ -19,9 +19,6 @@ We mainly focus on insular systems. Currently, our lab is researching the Galáp
 **Publications**
 While we do not keep a curated collection of publications exclusive to the laboratory, you can check out the [scholar profile of the group coordinator, José Cerca](https://scholar.google.pt/citations?user=ZI1vWPEAAAAJ&hl=en)
 
-{% include section.html %}
-
-
 ## All
 
 {% include search-box.html %}
