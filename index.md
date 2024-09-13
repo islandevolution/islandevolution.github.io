@@ -26,7 +26,7 @@ Read more on our research - broadly what we do.
 
 {%
   include feature.html
-  image="images/mapHawaii.png"
+  image="images/leaves.png"
   link="research"
   title="Our Research"
   text=text
