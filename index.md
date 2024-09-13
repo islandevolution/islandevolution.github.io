@@ -1,7 +1,7 @@
 ---
 ---
 
-# Welcome to the website of the Island biology, Diversification dynamics, Genome evolution Group (IDGG)
+# Welcome to our Group's website (IDGG)
 
 
 
