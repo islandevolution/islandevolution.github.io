@@ -9,7 +9,7 @@ footer: images/hawaii.jpg
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
-Here we share our latest news - conferences, grants, papers, new members, events, everything we're doing.
+**Our latest news** - conferences, grants, papers, new members, events, everything we're doing.
 
 {% include section.html %}
 
