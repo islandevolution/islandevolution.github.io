@@ -1,17 +1,19 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: IslandParadox
+  subtitle: Unraveling the Paradox of Genetic Diversity in Isolated Oceanic Lineages
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/System.png
+#  link: https://github.com/
+  description: Despite the constraints imposed by founder events, small population sizes, and inbreeding, these radiations exhibit remarkable ecological and phenotypic diversity, prompting the question: how do isolated lineages generate and maintain genetic diversity?
+  # repo: greenelab/lab-website-template
   tags:
-    - resource
+    - Adaptive radiation
+    - Genomics
+    - Evolution
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Ecological disparity in adaptive radiation
+  subtitle: Are adaptive radiations predictable?
   group: featured
-  image: images/photo.jpg
+  image: images/scalesia.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
