@@ -1,7 +1,7 @@
 ---
 name: Geraldine Rueda
 image: images/photo.jpg
-description: Lead Programmer
+description: MSc student
 role: msc
 links:
   email: mgmunoz@uio.no
