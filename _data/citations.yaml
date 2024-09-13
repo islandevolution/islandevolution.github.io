@@ -184,7 +184,7 @@
   - Rosemary Gillespie
   - Michael D. Martin
   publisher: Trends in Ecology &amp; Evolution
-  date: '2020-12-04'
+  date: '1970-01-01'
   link: https://doi.org/gsccvk
   orcid: 0000-0001-7788-4367
   plugin: sources.py
@@ -199,7 +199,6 @@
   tags:
   - Adaptive radiation
   - Oceanic islands
-  repo: greenelab/meta-review
 - id: doi:10.1101/2022.11.29.518358
   title: Multiple paths towards repeated phenotypic evolution in the spiny-leg adaptive
     radiation (<i>Tetragnatha</i>; Hawaii)
