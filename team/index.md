@@ -21,6 +21,8 @@ If you would like to join us, feel free to contact the group coordinator. Contac
 
 {% capture content %}
 
+{% endcapture %}
+
 <!--- 
 ***Note to self*** - If I want to add images I need to remove the {% comment %} {% endcomment %} sections. the arrow above and below, hide this comment.
 -->
@@ -30,8 +32,6 @@ If you would like to join us, feel free to contact the group coordinator. Contac
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
 
 {% endcomment %}
 
