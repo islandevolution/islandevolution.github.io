@@ -3,6 +3,8 @@ title: News
 nav:
   order: 4
   tooltip: What's up with us
+header: images/hawaii.jpg
+footer: images/hawaii.jpg
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
