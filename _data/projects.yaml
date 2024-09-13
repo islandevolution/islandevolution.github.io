@@ -27,19 +27,18 @@
     - simulation of data
 
 - title: Genetic load in an insular Heliconius
-  subtitle: Geraldines MSc thesis
+  subtitle: Geraldine's MSc thesis
   image: images/photo.jpg
-  description: In collaboration with the U of the Rosario we are 
   tags:
-    - Heliconius
-    - Adaptive radiation
-    - Genomics
+  description: In collaboration with Camilo Salazar and others in U de Rosario we are analysing genetic load in an insular Heliconius species
+    - heliconius
+    - adaptive radiation
+    - genomics
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: GWAS your way through
+  subtitle: Diego's MSc thesis
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: We are simulating trait and genomic data to understand the limits of GWAS approaches
   tags:
-    - software
+    - simulation of data
+    - genomics
