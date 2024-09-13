@@ -9,6 +9,8 @@ aliases:
 links:
   home-page: https://jcerca.github.io
   orcid: 0000-0001-7788-4367
+  CV: https://docs.google.com/document/d/1hed8_m4HZszFTc8yuwT0jYPseQNj68rbrX9qjYWUna8/edit
+  twitter: islandgenomics
 ---
 
 I am the IDGG group coordinator. Feel free to contact me if you would like to explore chances to work or collaborate with us.
