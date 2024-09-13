@@ -53,8 +53,9 @@
   date: '2024-01-01'
   link: https://doi.org/gwmzh7
   orcid: 0000-0001-7788-4367
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolinnean/3/1/10.1093_evolinnean_kzae005/2/m_kzae005_fig2.jpeg?Expires=1728567280&Signature=uvj~Kzq1z8AG2DqjMdadxmhY9ru~Ik2GJRfJ1dtVCr~NglzeHqPn3O9TP5Ynmh~KKTdIOnsgxsd27TUsdon7zyfYMV0j6KxZ0Z-POovURmrL3M0Dp0LewhfLFiP3gMQ07-IsZw4~x8jQIB~ZXmaJtL1D8OpEDeESSZ4lJWaO7gOpDK~2losVhNuS4qWmlDG19BF12iY~rzzj3XAzm7Ycg1iiRz8VCrLppGxWAo5qfDEnRbhlh3Xt4yRdQXlyDTqd3aswVyIhpr6yha8OzL8~Bf4yS1fwZ~j5fUksoI-7TAoAXy24XJeKkTtYQ69rC09cfQRjij9VP-JUrtZq86U~zw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1002/ajb2.16272
   title: Fruit wings accelerate germination in <i>Anacyclus clavatus</i>
   authors:
@@ -146,8 +147,9 @@
   date: '2023-07-29'
   link: https://doi.org/gwmzjk
   orcid: 0000-0001-7788-4367
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/d278da85-4ba5-42ae-b5e0-53600f8749f5/mec17082-fig-0001-m.jpg
 - id: doi:10.1016/j.tree.2023.02.003
   title: Evolutionary genomics of oceanic island radiations
   authors:
@@ -182,11 +184,22 @@
   - Rosemary Gillespie
   - Michael D. Martin
   publisher: Trends in Ecology &amp; Evolution
-  date: '2023-07-01'
+  date: '2020-12-04'
   link: https://doi.org/gsccvk
   orcid: 0000-0001-7788-4367
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: Our review of adaptive radiations across oceanic archipelagos!
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0169534723000320-b1.jpg
+  buttons:
+  - type: source
+    text: Link for the paper
+    link: https://www.sciencedirect.com/science/article/pii/S0169534723000320
+  tags:
+  - Adaptive radiation
+  - Oceanic islands
+  repo: greenelab/meta-review
 - id: doi:10.1101/2022.11.29.518358
   title: Multiple paths towards repeated phenotypic evolution in the spiny-leg adaptive
     radiation (<i>Tetragnatha</i>; Hawaii)
@@ -533,61 +546,3 @@
   orcid: 0000-0001-7788-4367
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
