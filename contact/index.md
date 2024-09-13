@@ -9,9 +9,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 <br>
-<p align="center">
-The best way to contact us is contacting the group coordinator - José Cerca
-</p>
+<center> The best way to contact us is contacting the group coordinator - José Cerca </center>
 <br>
 <br>
 
