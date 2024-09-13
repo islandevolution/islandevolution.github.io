@@ -11,7 +11,7 @@ footer: images/hawaii.jpg
 
 ---
 
-### Our latest news - conferences, grants, papers, new members, events, everything we're doing.
+### Our latest news - conferences, grants, publications, new members, events, etc.
 
 ---
 
