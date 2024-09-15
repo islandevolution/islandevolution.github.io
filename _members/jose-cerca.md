@@ -2,7 +2,7 @@
 name: José Cerca
 image: images/cerca_grinnyphoto.jpg
 role: pi
-affiliation: University of Oslo
+affiliation: Group coordinator (University of Oslo)
 aliases:
   - J. Cerca
   - J Cerca
