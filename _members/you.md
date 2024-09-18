@@ -1,6 +1,6 @@
 ---
 name: You!
-image: images/geral.jpeg
+image: images/photo.jpg
 description: PhD student
 role: phd
 links:
