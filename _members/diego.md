@@ -1,6 +1,6 @@
 ---
 name: Diego Salazar
-image: images/photo.jpg
+image: images/Diego.jpeg
 description: Master student
 role: msc
 links:
