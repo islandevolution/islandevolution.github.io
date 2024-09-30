@@ -7,4 +7,4 @@ links:
   email: 
 ---
 
-We will be hiring a PhD student soon to join our team.
+We are advertising a PhD position. [See here](https://www.jobbnorge.no/en/available-jobs/job/268466/phd-research-fellow-in-evolutionary-genomics-and-island-biology).
