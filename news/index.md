@@ -16,8 +16,8 @@ footer: images/hawaii.jpg
 ---
 
 #### 2024
-September - We are advertising a PhD position. [See here](https://www.jobbnorge.no/en/available-jobs/job/268466/phd-research-fellow-in-evolutionary-genomics-and-island-biology)
-June - José was awarded a Young Researcher Grant from the Norwegian Research Council (8,000,000 NOK) - we will be hiring soon!
+September - We are advertising a PhD position. [See here](https://www.jobbnorge.no/en/available-jobs/job/268466/phd-research-fellow-in-evolutionary-genomics-and-island-biology)<br>
+June - José was awarded a Young Researcher Grant from the Norwegian Research Council (8,000,000 NOK) - we will be hiring soon!)<br>
 Website created. More news to follow!
 
 <!--- 
