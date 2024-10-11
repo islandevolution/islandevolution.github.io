@@ -1,25 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/evolinnean/kzae021
-  title: "Darwin\u2019s overlooked radiation: genomic evidence points to the early\
-    \ stages of a radiation in the Gal\xE1pagos prickly pear cactus (<i>Opuntia,</i>\
-    \ Cactaceae)"
-  authors:
-  - Felipe Zapata
-  - "Jos\xE9 Cerca"
-  - Dana McCarney
-  - Claudia L Henriquez
-  - Bashir B Tiamiyu
-  - John E McCormack
-  - Kelsey R Reckling
-  - Jaime A Chaves
-  - Gonzalo Rivas-Torres
-  publisher: Evolutionary Journal of the Linnean Society
-  date: '2024-09-02'
-  link: https://doi.org/gwmzh2
-  orcid: 0000-0001-7788-4367
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/2024.06.28.599671
   title: Reference genome bias in light of species-specific chromosomal reorganization
     and translocations
@@ -56,6 +36,26 @@
   plugin: sources.py
   file: sources.yaml
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolinnean/3/1/10.1093_evolinnean_kzae005/2/m_kzae005_fig2.jpeg?Expires=1728567280&Signature=uvj~Kzq1z8AG2DqjMdadxmhY9ru~Ik2GJRfJ1dtVCr~NglzeHqPn3O9TP5Ynmh~KKTdIOnsgxsd27TUsdon7zyfYMV0j6KxZ0Z-POovURmrL3M0Dp0LewhfLFiP3gMQ07-IsZw4~x8jQIB~ZXmaJtL1D8OpEDeESSZ4lJWaO7gOpDK~2losVhNuS4qWmlDG19BF12iY~rzzj3XAzm7Ycg1iiRz8VCrLppGxWAo5qfDEnRbhlh3Xt4yRdQXlyDTqd3aswVyIhpr6yha8OzL8~Bf4yS1fwZ~j5fUksoI-7TAoAXy24XJeKkTtYQ69rC09cfQRjij9VP-JUrtZq86U~zw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+- id: doi:10.1093/evolinnean/kzae021
+  title: "Darwin\u2019s overlooked radiation: genomic evidence points to the early\
+    \ stages of a radiation in the Gal\xE1pagos prickly pear cactus (<i>Opuntia,</i>\
+    \ Cactaceae)"
+  authors:
+  - Felipe Zapata
+  - "Jos\xE9 Cerca"
+  - Dana McCarney
+  - Claudia L Henriquez
+  - Bashir B Tiamiyu
+  - John E McCormack
+  - Kelsey R Reckling
+  - Jaime A Chaves
+  - Gonzalo Rivas-Torres
+  publisher: Evolutionary Journal of the Linnean Society
+  date: '2024-09-02'
+  link: https://doi.org/gwmzh2
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/ajb2.16272
   title: Fruit wings accelerate germination in <i>Anacyclus clavatus</i>
   authors:
