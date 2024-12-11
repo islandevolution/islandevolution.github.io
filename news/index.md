@@ -16,6 +16,7 @@ footer: images/hawaii.jpg
 ---
 
 #### 2024
+December/24 - Wanyi Wei will be joining the IslandParadox project as a PhD student in Oslo<br>
 October/24 - Frasella won the best talk award by a MSc student at the student conference for the section of ecology and evolution!<br>
 October/24 - [New preprint out on transposable elements and Scalesia where we test whether TEs are associated with hybridization (genomic shock hypothesis) or climatic niches](https://www.biorxiv.org/content/10.1101/2024.09.30.614436v1.full.pdf+html)<br>
 September/24 - We are advertising a PhD position. [See here](https://www.jobbnorge.no/en/available-jobs/job/268466/phd-research-fellow-in-evolutionary-genomics-and-island-biology)<br>
