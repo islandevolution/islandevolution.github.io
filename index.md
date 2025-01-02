@@ -1,7 +1,7 @@
 ---
 ---
 
-# Welcome to our Group's website (IDGG)
+# Welcome to our Group's website
 
 
 
