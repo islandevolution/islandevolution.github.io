@@ -14,6 +14,9 @@ footer: images/hawaii.jpg
 ### Our latest news - conferences, grants, publications, new members, events, etc.
 
 ---
+#### 2025
+January/25 - We have two PhD students advertised one on [Evolutionary genomics, Biogeography, genome evolution of Diplotaxis (Brassicaceae) in Cabo Verde](https://recruit.visma.com/spa/public/apply?guidAssignment=ea9a5a9a-dd7a-4722-89eb-faa90b8c94a7&description=True), and [Evolutionary genomics (with a focus on hybridization on Indo-Pacific birds)](https://recruit.visma.com/spa/public/apply?guidAssignment=96837826-746d-4e8c-844d-22f2d2ef7bf4&description=True)
+January/25 - José officially started as a group leader in the Swedish Museum of Natural Science.
 
 #### 2024
 December/24 - Wanyi Wei will be joining the IslandParadox project as a PhD student in Oslo<br>
