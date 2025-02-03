@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/gr.279452.124
+  title: <i>k</i>-mer approaches for biodiversity genomics
+  authors:
+  - Katharine M. Jenike
+  - "Luc\xEDa Campos-Dom\xEDnguez"
+  - "Marilou Bodd\xE9"
+  - "Jos\xE9 Cerca"
+  - Christina N. Hodson
+  - Michael C. Schatz
+  - Kamil S. Jaron
+  publisher: Genome Research
+  date: '2025-01-31'
+  link: https://doi.org/g83t2h
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.06.28.599671
   title: Reference genome bias in light of species-specific chromosomal reorganization
     and translocations
