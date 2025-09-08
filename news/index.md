@@ -15,6 +15,10 @@ footer: images/hawaii.jpg
 
 ---
 #### 2025
+October/25 - Florian Schmidt and Nicolò hav started as a PhD student and a postdoc, respectively!
+September/25 - Martin Eriksson has started as a postdoc!
+August/25 - José and Wanyi just spent 2 weeks in the Galápagos doing fieldwork.
+June/25 - Frasella has finished her MSc!
 March/25 - [Postdoc position in Oslo to work on reference genomes and comparative genomics](https://www.jobbnorge.no/ledige-stillinger/stilling/277333/postdoctoral-research-fellow-in-evolutionary-and-comparative-genomics)
 March/25 - Grant application to the Swedish Research Council sent in - fingers crossed.
 February/25 - Wanyi Wei began her PhD in Oslo on the Galápagos Daisy project! Welcome.
