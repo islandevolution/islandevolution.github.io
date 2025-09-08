@@ -17,6 +17,8 @@ footer: images/hawaii.jpg
 #### 2025
 October/25 - Florian Schmidt and Nicolò hav started as a PhD student and a postdoc, respectively!
 September/25 - Martin Eriksson has started as a postdoc!
+August/25 - Two new papers out! [Chromosomal Inversions Mediated by Tandem Insertions of Transposable Elements](https://pmc.ncbi.nlm.nih.gov/articles/PMC12368964/) and [Population genomics of the invasive blackberry (Rubus niveus) in the Galapagos Islands
+](https://www.sciencedirect.com/science/article/pii/S2351989425003336)
 August/25 - José and Wanyi just spent 2 weeks in the Galápagos doing fieldwork.
 June/25 - Frasella has finished her MSc!
 March/25 - [Postdoc position in Oslo to work on reference genomes and comparative genomics](https://www.jobbnorge.no/ledige-stillinger/stilling/277333/postdoctoral-research-fellow-in-evolutionary-and-comparative-genomics)
