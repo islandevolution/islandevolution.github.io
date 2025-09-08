@@ -1,5 +1,5 @@
 ---
-name: You!
+name: Florian Schmidt
 image: images/photo.jpg
 description: PhD student
 role: phd
