@@ -1,6 +1,6 @@
 ---
 name: Martin Eriksson
-image: images/photo.jpg
+image: images/Martin.jpeg
 description: Postdoc
 role: postdoc
 links:
