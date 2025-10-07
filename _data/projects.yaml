@@ -1,3 +1,25 @@
+- title: Homoploid hybrid speciation
+  subtitle: Argyranthemum from the Canary Islands
+  group: featured
+  image: images/diplotaxis.jpg
+#  link: https://github.com/
+  description: Using pangenome and population genomics we are studying how parallel evolution to different climates affects Diplotaxis.
+  tags:
+    - Adaptive radiation
+    - Genomics
+    - Evolution
+
+- title: Parallel evolution in Cabo Verde Diplotaxis
+  subtitle: Argyranthemum from the Canary Islands
+  group: featured
+  image: images/scalesia.jpg
+#  link: https://github.com/
+  description: We are exploring how hybrid species genomes are structured and survive, using Ancestral Recombination Graph tools.
+  tags:
+    - Adaptive radiation
+    - Genomics
+    - Evolution
+
 - title: IslandParadox
   subtitle: Unraveling the Paradox of Genetic Diversity in Isolated Oceanic Lineages
   group: featured
