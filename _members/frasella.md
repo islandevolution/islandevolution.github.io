@@ -5,8 +5,6 @@ description: Master student
 role: msc
 links:
   email: fraselld@student.ibv.uio.no
-  twitter: Frasella_
-alumni: true
 ---
 
 I am a MSc student part of [BiGTREE](www.bigtree-training.org).
