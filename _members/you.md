@@ -2,7 +2,7 @@
 name: You!
 image: images/photo.jpg
 description: PhD student
-role: phd
+role: 
 links:
   email: 
 ---
