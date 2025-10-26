@@ -1,6 +1,6 @@
 ---
 name: Alexander Mackintosh
-image: images/photo.jpg
+image: images/alex.jpg
 description: Postdoc
 role: postdoc
 links:
