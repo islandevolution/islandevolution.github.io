@@ -9,14 +9,23 @@ nav:
 
 We are a diverse group of people interested in understanding island biology, diversification dynamics and genome evolution. Click on group member profiles to learn more about us!
 
+If you would like to join us, feel free to contact the group coordinator. Contact information can be found under the Contact section.
+
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|alumni$)" %}
 
 {% include section.html background="images/hawaii.jpg" dark=true %}
 
-If you would like to join us, feel free to contact the group coordinator. Contact information can be found under the Contact section.
+## Alumni
+
+We're proud of our former group members and their contributions to science.
+
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
+
+{% include section.html background="images/hawaii.jpg" dark=true %}
+
 {% include section.html %}
 
 {% capture content %}
