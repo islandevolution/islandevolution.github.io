@@ -2,7 +2,7 @@
 name: Frasella De Martino
 image: images/frasella.JPEG
 description: Master student
-role: msc
+role: alumni
 links:
   email: fraselld@student.ibv.uio.no
 ---
