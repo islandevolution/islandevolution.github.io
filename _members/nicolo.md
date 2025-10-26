@@ -1,6 +1,6 @@
 ---
 name: Nicolò Tellini
-image: images/photo.jpg
+image: images/Nicolo.jpg
 description: Postdoc
 role: postdoc
 links:
