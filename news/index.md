@@ -15,6 +15,8 @@ footer: images/hawaii.jpg
 
 ---
 #### 2025
+November/25 - New paper out! [Reference genome bias in light of species-specific chromosomal reorganization and translocations
+](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03761-w).
 October/25 - Florian Schmidt and Nicolò have started as a PhD student and a postdoc, respectively!<br>
 September/25 - Martin Eriksson has started as a postdoc!<br>
 August/25 - Two new papers out! [Chromosomal Inversions Mediated by Tandem Insertions of Transposable Elements](https://pmc.ncbi.nlm.nih.gov/articles/PMC12368964/) and [Population genomics of the invasive blackberry (Rubus niveus) in the Galapagos Islands
