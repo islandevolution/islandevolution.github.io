@@ -8,6 +8,7 @@ links:
 ---
 
 I am a PhD student at the Swedish Museum of Natural History.
+<br>
 **Taxa**
 Whistlers and Birds of Paradise
 
