@@ -1,8 +1,43 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/ajb2.70130
+  title: Pangenomes as a framework for adaptive radiation, speciation, and adaptation
+  authors:
+  - "Nicol\xF2 Tellini"
+  - "Ole K. T\xF8rresen"
+  - David Edwards
+  - Loren H. Rieseberg
+  - Kjetill S. Jakobsen
+  - "Jos\xE9 Cerca"
+  publisher: American Journal of Botany
+  date: '2025-12-01'
+  link: https://doi.org/hbkxpg
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jhered/esaf094
+  title: "Chromosome-level genome assembly of Norwegian wild alpine reindeer (\n \
+    \                   <i>Rangifer tarandus tarandus</i>\n                    )"
+  authors:
+  - "Ole K T\xF8rresen"
+  - Ave Tooming-Klunderud
+  - Morten Skage
+  - Anne Eline Streitlien
+  - Olav Strand
+  - Christer M Rolandsen
+  - Giada Ferrari
+  - "Jos\xE9 Cerca"
+  - Atle Mysterud
+  - Kjetill S Jakobsen
+  publisher: Journal of Heredity
+  date: '2025-11-03'
+  link: https://doi.org/g985w4
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.05.15.652595
-  title: Chromosome-level genome assembly of Norwegian wild alpine reindeer ( <i>Rangifer
-    tarandus tarandus</i> )
+  title: "Chromosome-level genome assembly of Norwegian wild alpine reindeer (\n \
+    \                 <i>Rangifer tarandus tarandus</i>\n                  )"
   authors:
   - "Ole K. T\xF8rresen"
   - Ave Tooming-Klunderud
@@ -14,7 +49,7 @@
   - "Jos\xE9 Cerca"
   - Atle Mysterud
   - Kjetill S. Jakobsen
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-05-16'
   link: https://doi.org/g9k86r
   orcid: 0000-0001-7788-4367
@@ -48,7 +83,7 @@
   - Kjetill S. Jakobsen
   - "Kim Pr\xE6bel"
   - Sissel Jentoft
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-06-28'
   link: https://doi.org/gwmzh6
   orcid: 0000-0001-7788-4367
@@ -74,8 +109,8 @@
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolinnean/3/1/10.1093_evolinnean_kzae005/2/m_kzae005_fig2.jpeg?Expires=1728567280&Signature=uvj~Kzq1z8AG2DqjMdadxmhY9ru~Ik2GJRfJ1dtVCr~NglzeHqPn3O9TP5Ynmh~KKTdIOnsgxsd27TUsdon7zyfYMV0j6KxZ0Z-POovURmrL3M0Dp0LewhfLFiP3gMQ07-IsZw4~x8jQIB~ZXmaJtL1D8OpEDeESSZ4lJWaO7gOpDK~2losVhNuS4qWmlDG19BF12iY~rzzj3XAzm7Ycg1iiRz8VCrLppGxWAo5qfDEnRbhlh3Xt4yRdQXlyDTqd3aswVyIhpr6yha8OzL8~Bf4yS1fwZ~j5fUksoI-7TAoAXy24XJeKkTtYQ69rC09cfQRjij9VP-JUrtZq86U~zw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1093/evolinnean/kzae021
   title: "Darwin\u2019s overlooked radiation: genomic evidence points to the early\
-    \ stages of a radiation in the Gal\xE1pagos prickly pear cactus (<i>Opuntia</i>:\
-    \ Cactaceae)"
+    \ stages of a radiation in the Gal\xE1pagos prickly pear cactus (\n          \
+    \          <i>Opuntia</i>\n                    : Cactaceae)"
   authors:
   - Felipe Zapata
   - "Jos\xE9 Cerca"
@@ -133,7 +168,8 @@
   file: orcid.yaml
 - id: doi:10.1101/2023.10.03.560736
   title: "Darwin\u2019s Overlooked Radiation: genomic evidence points to the early\
-    \ stages of a radiation in the Gal\xE1pagos prickly pear cactus (<i>Opuntia,</i>Cactaceae)"
+    \ stages of a radiation in the Gal\xE1pagos prickly pear cactus (\n          \
+    \        <i>Opuntia,</i>\n                  Cactaceae)"
   authors:
   - Felipe Zapata
   - "Jos\xE9 Cerca"
@@ -144,7 +180,7 @@
   - Kelsey R. Reckling
   - Jaime A. Chaves
   - Gonzalo Rivas-Torres
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-10-05'
   link: https://doi.org/gwmzjd
   orcid: 0000-0001-7788-4367
@@ -163,7 +199,8 @@
   file: orcid.yaml
 - id: doi:10.1111/mec.17082
   title: "Multiple paths toward repeated phenotypic evolution in the spiny\u2010leg\
-    \ adaptive radiation (<i>Tetragnatha</i>; Hawai'i)"
+    \ adaptive radiation (\n                    <i>Tetragnatha</i>\n             \
+    \       ; Hawai'i)"
   authors:
   - "Jos\xE9 Cerca"
   - Darko D. Cotoras
@@ -236,8 +273,8 @@
   - Adaptive radiation
   - Oceanic islands
 - id: doi:10.1101/2022.11.29.518358
-  title: Multiple paths towards repeated phenotypic evolution in the spiny-leg adaptive
-    radiation (<i>Tetragnatha</i>; Hawaii)
+  title: "Multiple paths towards repeated phenotypic evolution in the spiny-leg adaptive\
+    \ radiation (\n                  <i>Tetragnatha</i>\n                  ; Hawaii)"
   authors:
   - "Jos\xE9 Cerca"
   - Darko D. Cotoras
@@ -253,7 +290,7 @@
   - Dimitar Dimitrov
   - Torsten H. Struck
   - Rosemary G. Gillespie
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-12-02'
   link: https://doi.org/gwmzjp
   orcid: 0000-0001-7788-4367
@@ -358,7 +395,7 @@
   - James H. Leebens-Mack
   - Loren Rieseberg
   - Michael D. Martin
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-01-28'
   link: https://doi.org/gwmzjx
   orcid: 0000-0001-7788-4367
@@ -502,7 +539,7 @@
   file: orcid.yaml
 - id: doi:10.1002/ajb2.1238
   title: 'Fitness benefits and costs of floral advertising traits: insights from rayed
-    and rayless phenotypes of<i>Anacyclus</i>(Asteraceae)'
+    and rayless phenotypes of <i>Anacyclus</i> (Asteraceae)'
   authors:
   - "Jos\xE9 Cerca"
   - Alicia B. Agudo
