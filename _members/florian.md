@@ -1,6 +1,6 @@
 ---
 name: Florian Schmidt
-image: images/photo.jpg
+image: images/Florian.jpeg
 description: PhD student
 role: phd
 links:
