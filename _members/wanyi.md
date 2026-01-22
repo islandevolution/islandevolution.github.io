@@ -9,5 +9,8 @@ links:
 
 I am a PhD student part of the IslandParadox.
 <br>
+**Taxa**
+Galápagos Daisies
+<br>
 **Project description**
-tbd
+I am working on the (i) biogeography of Galápagos taxa; (ii) impact of polyploidization and hybridization in insular lineages; (iii) overshooting effects of adaptive radiations.
