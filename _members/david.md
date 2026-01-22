@@ -8,8 +8,9 @@ links:
 ---
 
 I am a Postdoc at the Swedish Museum of Natural History.
+<br>
 **Taxa**
-_Tribulus_!
+_Tribulus_
 <br>
 **Project description** I am working with Tribulus, one of the favorite plants of Darwin's finches, trying to understand biogeography and colonization history of this lineage.
 <br>
