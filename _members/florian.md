@@ -8,7 +8,10 @@ links:
 ---
 
 I am a PhD student at the Swedish Museum of Natural History.
-**Project description** I am focusing on parallel/convergent evolution of Diplotaxis in Cabo Verde, using ecological and genomic approaches.
+**Taxa**
+_Diplotaxis_ from Cabo Verde
+<br>
+**Project description** I am focusing on the impact of bottlenecks in phylogenetic reconstructions, understanding the impact of hybridization vs species merging, and the biogeography and re-diploidization of _Diplotaxis_ in Cabo Verde.
 
-**Co-supervisors and project collaborators** Filip Kolar, Christian Brochmann, Mathieu Gardère, Evandro Lopes
+**Co-supervisors and project collaborators** Aelys Humphreys, Filip Kolar, Christian Brochmann, Mathieu Gardère, Evandro Lopes
 
