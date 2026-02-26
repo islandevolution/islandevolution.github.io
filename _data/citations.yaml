@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.01.21.700815
+  title: "Phylogenomics and biogeography of the parrot genus\n                  <i>Pyrrhura</i>\n\
+    \                  with implications for systematics and conservation"
+  authors:
+  - Jaime G. Morin-Lagos
+  - Taylor Hains
+  - "Jos\xE9 Cerca"
+  - Michael Wink
+  - Stacy Pirro
+  - Cristina Y. Miyaki
+  - Shannon J. Hackett
+  - John M. Bates
+  - Michael D. Martin
+  publisher: openRxiv
+  date: '2026-01-23'
+  link: https://doi.org/hbqpsw
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/ajb2.70130
   title: Pangenomes as a framework for adaptive radiation, speciation, and adaptation
   authors:
@@ -32,6 +51,24 @@
   publisher: Journal of Heredity
   date: '2025-11-03'
   link: https://doi.org/g985w4
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-025-03761-w
+  title: Reference genome bias in light of species-specific chromosomal reorganization
+    and translocations
+  authors:
+  - Marius F. Maurstad
+  - Siv Nam Khang Hoff
+  - "Jos\xE9 Cerca"
+  - Mark Ravinet
+  - Ian Bradbury
+  - Kjetill S. Jakobsen
+  - "Kim Pr\xE6bel"
+  - Sissel Jentoft
+  publisher: Genome Biology
+  date: '2025-10-15'
+  link: https://doi.org/hbdkb7
   orcid: 0000-0001-7788-4367
   plugin: orcid.py
   file: orcid.yaml
@@ -89,24 +126,6 @@
   orcid: 0000-0001-7788-4367
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/evolinnean/kzae005
-  title: Consistent accumulation of transposable elements in species of the Hawaiian
-    <i>Tetragnatha</i> spiny-leg adaptive radiation across the archipelago chronosequence
-  authors:
-  - Heidi Yang
-  - "Cl\xE9ment Goubert"
-  - Darko D Cotoras
-  - Dimitar Dimitrov
-  - Natalie R Graham
-  - "Jos\xE9 Cerca"
-  - Rosemary G Gillespie
-  publisher: Evolutionary Journal of the Linnean Society
-  date: '2024-01-01'
-  link: https://doi.org/gwmzh7
-  orcid: 0000-0001-7788-4367
-  plugin: sources.py
-  file: sources.yaml
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolinnean/3/1/10.1093_evolinnean_kzae005/2/m_kzae005_fig2.jpeg?Expires=1728567280&Signature=uvj~Kzq1z8AG2DqjMdadxmhY9ru~Ik2GJRfJ1dtVCr~NglzeHqPn3O9TP5Ynmh~KKTdIOnsgxsd27TUsdon7zyfYMV0j6KxZ0Z-POovURmrL3M0Dp0LewhfLFiP3gMQ07-IsZw4~x8jQIB~ZXmaJtL1D8OpEDeESSZ4lJWaO7gOpDK~2losVhNuS4qWmlDG19BF12iY~rzzj3XAzm7Ycg1iiRz8VCrLppGxWAo5qfDEnRbhlh3Xt4yRdQXlyDTqd3aswVyIhpr6yha8OzL8~Bf4yS1fwZ~j5fUksoI-7TAoAXy24XJeKkTtYQ69rC09cfQRjij9VP-JUrtZq86U~zw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1093/evolinnean/kzae021
   title: "Darwin\u2019s overlooked radiation: genomic evidence points to the early\
     \ stages of a radiation in the Gal\xE1pagos prickly pear cactus (\n          \
@@ -124,76 +143,6 @@
   publisher: Evolutionary Journal of the Linnean Society
   date: '2024-01-01'
   link: https://doi.org/gwmzh2
-  orcid: 0000-0001-7788-4367
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/ajb2.16272
-  title: Fruit wings accelerate germination in <i>Anacyclus clavatus</i>
-  authors:
-  - "Rub\xE9n Torices"
-  - "Luc\xEDa DeSoto"
-  - "Jos\xE9 Cerca"
-  - Lucie Mota
-  - Ana Afonso
-  - Cristina Poyatos
-  publisher: American Journal of Botany
-  date: '2024-01-01'
-  link: https://doi.org/gwmzjc
-  orcid: 0000-0001-7788-4367
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/cshperspect.a041455
-  title: Anthropogenic Change and the Process of Speciation
-  authors:
-  - "Murielle \xC5lund"
-  - Meredith Cenzer
-  - Nicolas Bierne
-  - Janette W. Boughman
-  - "Jos\xE9 Cerca"
-  - Mattheau S. Comerford
-  - Alessandro Culicchi
-  - Brian Langerhans
-  - S. Eryn McFarlane
-  - "Markus H. M\xF6st"
-  - Henry North
-  - "Anna Qvarnstr\xF6m"
-  - Mark Ravinet
-  - "Richard Svanb\xE4ck"
-  - Scott A. Taylor
-  publisher: Cold Spring Harbor Perspectives in Biology
-  date: '2023-10-03'
-  link: https://doi.org/gs9x7d
-  orcid: 0000-0001-7788-4367
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.03.560736
-  title: "Darwin\u2019s Overlooked Radiation: genomic evidence points to the early\
-    \ stages of a radiation in the Gal\xE1pagos prickly pear cactus (\n          \
-    \        <i>Opuntia,</i>\n                  Cactaceae)"
-  authors:
-  - Felipe Zapata
-  - "Jos\xE9 Cerca"
-  - Dana McCarney
-  - Claudia L. Henriquez
-  - Bashir B. Tiamiyu
-  - John E. McCormack
-  - Kelsey R. Reckling
-  - Jaime A. Chaves
-  - Gonzalo Rivas-Torres
-  publisher: openRxiv
-  date: '2023-10-05'
-  link: https://doi.org/gwmzjd
-  orcid: 0000-0001-7788-4367
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/mec.17132
-  title: 'Understanding natural selection and similarity: Convergent, parallel and
-    repeated evolution'
-  authors:
-  - "Jos\xE9 Cerca"
-  publisher: Molecular Ecology
-  date: '2023-09-19'
-  link: https://doi.org/gwmzjj
   orcid: 0000-0001-7788-4367
   plugin: orcid.py
   file: orcid.yaml
@@ -223,219 +172,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://onlinelibrary.wiley.com/cms/asset/d278da85-4ba5-42ae-b5e0-53600f8749f5/mec17082-fig-0001-m.jpg
-- id: doi:10.1016/j.tree.2023.02.003
-  title: Evolutionary genomics of oceanic island radiations
-  authors:
-  - "Jos\xE9 Cerca"
-  - Darko D. Cotoras
-  - Vanessa C. Bieker
-  - Rishi De-Kayne
-  - Pablo Vargas
-  - "Mario Fern\xE1ndez-Mazuecos"
-  - "Julia L\xF3pez-Delgado"
-  - Oliver White
-  - Martin Stervander
-  - Anthony J. Geneva
-  - Juan Ernesto Guevara Andino
-  - Joana Isabel Meier
-  - Lizzie Roeble
-  - "Baptiste Br\xE9e"
-  - "Jairo Pati\xF1o"
-  - Juan M. Guayasamin
-  - "Mar\xEDa de Lourdes Torres"
-  - Hugo Valdebenito
-  - "Mar\xEDa del Rosario Casta\xF1eda"
-  - Jaime A. Chaves
-  - "Patricia Jaramillo D\xEDaz"
-  - Luis Valente
-  - Matthew L. Knope
-  - Jonathan P. Price
-  - Loren H. Rieseberg
-  - Bruce G. Baldwin
-  - Brent C. Emerson
-  - Gonzalo Rivas-Torres
-  - Rosemary Gillespie
-  - Michael D. Martin
-  publisher: Trends in Ecology &amp; Evolution
-  date: '1970-01-01'
-  link: https://doi.org/gsccvk
-  orcid: 0000-0001-7788-4367
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Our review of adaptive radiations across oceanic archipelagos!
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0169534723000320-b1.jpg
-  buttons:
-  - type: source
-    text: Link for the paper
-    link: https://www.sciencedirect.com/science/article/pii/S0169534723000320
-  tags:
-  - Adaptive radiation
-  - Oceanic islands
-- id: doi:10.1101/2022.11.29.518358
-  title: "Multiple paths towards repeated phenotypic evolution in the spiny-leg adaptive\
-    \ radiation (\n                  <i>Tetragnatha</i>\n                  ; Hawaii)"
-  authors:
-  - "Jos\xE9 Cerca"
-  - Darko D. Cotoras
-  - Cindy G. Santander
-  - Vanessa C. Bieker
-  - Leke Hutchins
-  - Jaime Morin-Lagos
-  - Carlos F. Prada
-  - Susan Kennedy
-  - Henrik Krehenwinkel
-  - Andrew J. Rominger
-  - Joana Meier
-  - Dimitar Dimitrov
-  - Torsten H. Struck
-  - Rosemary G. Gillespie
-  publisher: openRxiv
-  date: '2022-12-02'
-  link: https://doi.org/gwmzjp
-  orcid: 0000-0001-7788-4367
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.32942/OSF.IO/G8U39
-  title: A simple conceptual framework and nomenclature for studying repeated, parallel
-    and convergent evolution
-  authors:
-  - "Jos\xE9 Cerca"
-  publisher: California Digital Library (CDL)
-  date: '2022-06-28'
-  link: https://doi.org/gwmzjr
-  orcid: 0000-0001-7788-4367
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41467-022-31280-w
-  title: "The genomic basis of the plant island syndrome in Darwin\u2019s giant daisies"
-  authors:
-  - "Jos\xE9 Cerca"
-  - Bent Petersen
-  - "Jos\xE9 Miguel Lazaro-Guevara"
-  - "Angel Rivera-Col\xF3n"
-  - Siri Birkeland
-  - Joel Vizueta
-  - Siyu Li
-  - Qionghou Li
-  - "Jo\xE3o Loureiro"
-  - Chatchai Kosawang
-  - "Patricia Jaramillo D\xEDaz"
-  - Gonzalo Rivas-Torres
-  - "Mario Fern\xE1ndez-Mazuecos"
-  - Pablo Vargas
-  - Ross A. McCauley
-  - Gitte Petersen
-  - Luisa Santos-Bay
-  - Nathan Wales
-  - Julian M. Catchen
-  - Daniel Machado
-  - Michael D. Nowak
-  - Alexander Suh
-  - Neelima R. Sinha
-  - Lene R. Nielsen
-  - Ole Seberg
-  - M. Thomas P. Gilbert
-  - James H. Leebens-Mack
-  - Loren H. Rieseberg
-  - Michael D. Martin
-  publisher: Nature Communications
-  date: '2022-06-28'
-  link: https://doi.org/gqmrss
-  orcid: 0000-0001-7788-4367
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41598-022-09868-5
-  title: High genomic diversity in the endangered East Greenland Svalbard Barents
-    Sea stock of bowhead whales (Balaena mysticetus)
-  authors:
-  - "Jos\xE9 Cerca"
-  - Michael V. Westbury
-  - "Mads Peter Heide-J\xF8rgensen"
-  - Kit M. Kovacs
-  - Eline D. Lorenzen
-  - Christian Lydersen
-  - Olga V. Shpak
-  - "\xD8ystein Wiig"
-  - Lutz Bachmann
-  publisher: Scientific Reports
-  date: '2022-04-12'
-  link: https://doi.org/gwmzjv
-  orcid: 0000-0001-7788-4367
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.01.26.477903
-  title: "The genomic basis of the plant island syndrome in Darwin\u2019s giant daisies"
-  authors:
-  - "Jos\xE9 Cerca"
-  - Bent Petersen
-  - "Jos\xE9 Miguel Lazaro Guevara"
-  - "Angel Rivera-Col\xF3n"
-  - Siri Birkeland
-  - Joel Vizueta
-  - Siyu Li
-  - "Jo\xE3o Loureiro"
-  - Chatchai Kosawang
-  - "Patricia Jaramillo D\xEDaz"
-  - Gonzalo Rivas-Torres
-  - "Mario Fern\xE1ndez-Mazuecos"
-  - Pablo Vargas
-  - Ross McCauley
-  - Gitte Petersen
-  - Luisa Santos-Bay
-  - Nathan Wales
-  - Julian Catchen
-  - Daniel Machado
-  - Michael D. Nowak
-  - Alexander Suh
-  - Neelima Sinha
-  - Lene R. Nielsen
-  - Ole Seberg
-  - M. Thomas P. Gilbert
-  - James H. Leebens-Mack
-  - Loren Rieseberg
-  - Michael D. Martin
-  publisher: openRxiv
-  date: '2022-01-28'
-  link: https://doi.org/gwmzjx
-  orcid: 0000-0001-7788-4367
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.11646/zootaxa.5081.3.3
-  title: 'A review of the worldwide distribution of Marenzelleria viridis, with new
-    records for M. viridis, M. neglecta and Marenzelleria sp. (Annelida: Spionidae)'
-  authors:
-  - VASILY I. RADASHEVSKY
-  - VICTORIA V. PANKOVA
-  - VASILY V. MALYAR
-  - "JOS\xC9 CERCA"
-  - TORSTEN H. STRUCK
-  publisher: Zootaxa
-  date: '2021-12-13'
-  link: https://doi.org/gwmzj3
-  orcid: 0000-0001-7788-4367
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gbe/evab262
-  title: The <i>Tetragnatha kauaiensis</i> Genome Sheds Light on the Origins of Genomic
-    Novelty in Spiders
-  authors:
-  - "Jos\xE9 Cerca"
-  - Ellie E Armstrong
-  - Joel Vizueta
-  - "Rosa Fern\xE1ndez"
-  - Dimitar Dimitrov
-  - Bent Petersen
-  - Stefan Prost
-  - Julio Rozas
-  - Dmitri Petrov
-  - Rosemary G Gillespie
-  publisher: Genome Biology and Evolution
-  date: '2021-11-26'
-  link: https://doi.org/gwmzj4
-  orcid: 0000-0001-7788-4367
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1111/mec.16139
   title: "Pervasive admixture and the spread of a large\u2010lipped form in a cichlid\
     \ fish radiation"
@@ -618,3 +354,68 @@
   orcid: 0000-0001-7788-4367
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.tree.2023.02.003
+  title: Evolutionary genomics of oceanic island radiations
+  authors:
+  - "Jos\xE9 Cerca"
+  - Darko D. Cotoras
+  - Vanessa C. Bieker
+  - Rishi De-Kayne
+  - Pablo Vargas
+  - "Mario Fern\xE1ndez-Mazuecos"
+  - "Julia L\xF3pez-Delgado"
+  - Oliver White
+  - Martin Stervander
+  - Anthony J. Geneva
+  - Juan Ernesto Guevara Andino
+  - Joana Isabel Meier
+  - Lizzie Roeble
+  - "Baptiste Br\xE9e"
+  - "Jairo Pati\xF1o"
+  - Juan M. Guayasamin
+  - "Mar\xEDa de Lourdes Torres"
+  - Hugo Valdebenito
+  - "Mar\xEDa del Rosario Casta\xF1eda"
+  - Jaime A. Chaves
+  - "Patricia Jaramillo D\xEDaz"
+  - Luis Valente
+  - Matthew L. Knope
+  - Jonathan P. Price
+  - Loren H. Rieseberg
+  - Bruce G. Baldwin
+  - Brent C. Emerson
+  - Gonzalo Rivas-Torres
+  - Rosemary Gillespie
+  - Michael D. Martin
+  publisher: Trends in Ecology &amp; Evolution
+  date: '1970-01-01'
+  link: https://doi.org/gsccvk
+  type: paper
+  description: Our review of adaptive radiations across oceanic archipelagos!
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0169534723000320-b1.jpg
+  buttons:
+  - type: source
+    text: Link for the paper
+    link: https://www.sciencedirect.com/science/article/pii/S0169534723000320
+  tags:
+  - Adaptive radiation
+  - Oceanic islands
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/evolinnean/kzae005
+  title: Consistent accumulation of transposable elements in species of the Hawaiian
+    <i>Tetragnatha</i> spiny-leg adaptive radiation across the archipelago chronosequence
+  authors:
+  - Heidi Yang
+  - "Cl\xE9ment Goubert"
+  - Darko D Cotoras
+  - Dimitar Dimitrov
+  - Natalie R Graham
+  - "Jos\xE9 Cerca"
+  - Rosemary G Gillespie
+  publisher: Evolutionary Journal of the Linnean Society
+  date: '2024-01-01'
+  link: https://doi.org/gwmzh7
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolinnean/3/1/10.1093_evolinnean_kzae005/2/m_kzae005_fig2.jpeg?Expires=1728567280&Signature=uvj~Kzq1z8AG2DqjMdadxmhY9ru~Ik2GJRfJ1dtVCr~NglzeHqPn3O9TP5Ynmh~KKTdIOnsgxsd27TUsdon7zyfYMV0j6KxZ0Z-POovURmrL3M0Dp0LewhfLFiP3gMQ07-IsZw4~x8jQIB~ZXmaJtL1D8OpEDeESSZ4lJWaO7gOpDK~2losVhNuS4qWmlDG19BF12iY~rzzj3XAzm7Ycg1iiRz8VCrLppGxWAo5qfDEnRbhlh3Xt4yRdQXlyDTqd3aswVyIhpr6yha8OzL8~Bf4yS1fwZ~j5fUksoI-7TAoAXy24XJeKkTtYQ69rC09cfQRjij9VP-JUrtZq86U~zw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  plugin: sources.py
+  file: sources.yaml
