@@ -15,16 +15,17 @@ footer: images/hawaii.jpg
 
 ---
 #### 2026
-January/26 - Alex and Martin got their first grant with us! Alex received 250 k SEK from the Royal Swedish Academy of Sciences, and Martin 60k SEK from Magnus Bergvalls Stifelse. José got ~350 k NOK funding from the Research Council of Norway to do fieldwork in the Galápagos.
-January/26 - We just received 5 Tb of Pacbio, ONT and Hi-C data for our projects. Now for the hardwork..
-January/26 - Alex and Mona have started their postdocs and PhD, respectively with us! Alex will be working on Ancestral Recombination Graphs (ARGs) and hybrid genomes, and Mona with reference bias and hybridization on birds!
+March/26 - David is joining us as a Postdoc!<br>
+January/26 - Alex and Martin got their first grant with us! Alex received 250 k SEK from the Royal Swedish Academy of Sciences, and Martin 60k SEK from Magnus Bergvalls Stifelse. José got ~350 k NOK funding from the Research Council of Norway to do fieldwork in the Galápagos.<br>
+January/26 - We just received 10 Tb of Pacbio, ONT and Hi-C data for our projects. Now for the hardwork..<br>
+January/26 - Alex and Mona have started their postdocs and PhD, respectively with us! Alex will be working on Ancestral Recombination Graphs (ARGs) and hybrid genomes, and Mona with reference bias and hybridization on birds!<br>
 
 #### 2025
-December/25 - We got a Wenner-Gren Fellowship funded for David Criado Ruiz to join us in March!
-December/25 - Nicolò got the first paper out of his Postdoc! [Pangenomes as a Framework for Adaptive Radiation, Speciation, and Adaptation](https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/ajb2.70130)
-November/25 - Another paper out! [Genomic and biogeographic patterns of endemic geckos in the Galapagos Islands reveal population structure and species delimitation on inhabited islands](https://www.nature.com/articles/s41598-025-24790-2)!
-November/25 - New paper out! [Reference genome bias in light of species-specific chromosomal reorganization and translocations
-](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03761-w).
+December/25 - We got a Wenner-Gren Fellowship funded for David Criado Ruiz to join us in March!<br>
+December/25 - Nicolò got the first paper out of his Postdoc! [Pangenomes as a Framework for Adaptive Radiation, Speciation, and Adaptation](https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/ajb2.70130)<br>
+November/25 - Another paper out! [Genomic and biogeographic patterns of endemic geckos in the Galapagos Islands reveal population structure and species delimitation on inhabited islands](https://www.nature.com/articles/s41598-025-24790-2)!<br>
+November/25 - New paper out! [Reference genome bias in light of species-specific chromosomal reorganization and translocations<br>
+](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03761-w).<br>
 October/25 - Florian Schmidt and Nicolò have started as a PhD student and a postdoc, respectively!<br>
 September/25 - Martin Eriksson has started as a postdoc!<br>
 August/25 - Two new papers out! [Chromosomal Inversions Mediated by Tandem Insertions of Transposable Elements](https://pmc.ncbi.nlm.nih.gov/articles/PMC12368964/) and [Population genomics of the invasive blackberry (Rubus niveus) in the Galapagos Islands
