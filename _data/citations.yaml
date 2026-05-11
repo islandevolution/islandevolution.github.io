@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/jhered/esaf094
+  title: "Chromosome-level genome assembly of Norwegian wild alpine reindeer (\n \
+    \                   <i>Rangifer tarandus tarandus</i>\n                    )"
+  authors:
+  - "Ole K T\xF8rresen"
+  - Ave Tooming-Klunderud
+  - Morten Skage
+  - Anne Eline Streitlien
+  - Olav Strand
+  - Christer M Rolandsen
+  - Giada Ferrari
+  - "Jos\xE9 Cerca"
+  - Atle Mysterud
+  - Kjetill S Jakobsen
+  publisher: Journal of Heredity
+  date: '2025-11-03'
+  link: https://doi.org/g985w4
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2026.01.21.700815
   title: "Phylogenomics and biogeography of the parrot genus\n                  <i>Pyrrhura</i>\n\
     \                  with implications for systematics and conservation"
@@ -31,26 +51,6 @@
   publisher: American Journal of Botany
   date: '2025-12-01'
   link: https://doi.org/hbkxpg
-  orcid: 0000-0001-7788-4367
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/jhered/esaf094
-  title: "Chromosome-level genome assembly of Norwegian wild alpine reindeer (\n \
-    \                   <i>Rangifer tarandus tarandus</i>\n                    )"
-  authors:
-  - "Ole K T\xF8rresen"
-  - Ave Tooming-Klunderud
-  - Morten Skage
-  - Anne Eline Streitlien
-  - Olav Strand
-  - Christer M Rolandsen
-  - Giada Ferrari
-  - "Jos\xE9 Cerca"
-  - Atle Mysterud
-  - Kjetill S Jakobsen
-  publisher: Journal of Heredity
-  date: '2025-11-03'
-  link: https://doi.org/g985w4
   orcid: 0000-0001-7788-4367
   plugin: orcid.py
   file: orcid.yaml
