@@ -15,10 +15,19 @@ footer: images/hawaii.jpg
 
 ---
 #### 2026
-March/26 - David is joining us as a Postdoc!<br>
+June/26 - Geraldine and Diego defended their thesis, both with an A!<br>
+June/26 - Paper on reindeer published. Link soon<br>
+June/26 - Laura Schat won a fellowship to join us!<br>
+June/26 - José has had his ERC interview, fingers crossed <br>
+May/26 - A new (and provocative..) paper out [The identity crisis of speciation genomics](https://academic.oup.com/evolinnean/advance-article/doi/10.1093/evolinnean/kzag011/8699611)<br>
+May/26 - 2Tb of Tribulus data for us to analyse! This will be fun<br>
+May/26 - Carl Tryggers will fund a conference on Adaptive Radiation - more on this soon!<br>
+April/26 - New paper out: [‘The ecology of adaptive radiation’ revisited: A 25-year reflection](https://academic.oup.com/evolinnean/article/5/1/kzag006/8554155)<br>
+March/26 - David Criado joined us as a Postdoc!<br>
+February/26 - We got a Technology Development and a WABI grants funded by SciLifeLab. We will be merging Pangenomes and Ancestral Recombination Graph approaches<br>
 January/26 - Alex and Martin got their first grant with us! Alex received 250 k SEK from the Royal Swedish Academy of Sciences, and Martin 60k SEK from Magnus Bergvalls Stifelse. José got ~350 k NOK funding from the Research Council of Norway to do fieldwork in the Galápagos.<br>
 January/26 - We just received 10 Tb of Pacbio, ONT and Hi-C data for our projects. Now for the hardwork..<br>
-January/26 - Alex and Mona have started their postdocs and PhD, respectively with us! Alex will be working on Ancestral Recombination Graphs (ARGs) and hybrid genomes, and Mona with reference bias and hybridization on birds!<br>
+January/26 - Alex and Mona have started their postdocs and PhD, respectively, with us. Alex will be working on Ancestral Recombination Graphs (ARGs) and hybrid genomes, and Mona with reference bias and hybridization on birds!<br>
 
 #### 2025
 December/25 - We got a Wenner-Gren Fellowship funded for David Criado Ruiz to join us in March!<br>
