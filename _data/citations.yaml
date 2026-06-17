@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1111/plb.70227
+  title: "Ibero\u2010Balearic plant disjunctions: genomic support for rapid and recurrent\
+    \ long\u2010distance colonizations of the endangered\n                    <i>Diplotaxis\
+    \ ibicensis</i>\n                    (Brassicaceae) despite no dispersal syndromes"
+  authors:
+  - L. Bezares
+  - "M. Fern\xE1ndez\u2010Mazuecos"
+  - E. Cano
+  - "J. Borr\xE0s"
+  - J. Cerca
+  - J. Cursach
+  - P. Vargas
+  publisher: Plant Biology
+  date: '2026-06-15'
+  link: https://doi.org/hb72nr
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/evolinnean/kzag011
+  title: The identity crisis of speciation genomics
+  authors:
+  - "Jos\xE9 Cerca"
+  - Rike Stelkens
+  publisher: Evolutionary Journal of the Linnean Society
+  date: '2026-06-02'
+  link: https://doi.org/hb72ns
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/jhered/esaf094
   title: "Chromosome-level genome assembly of Norwegian wild alpine reindeer (\n \
     \                   <i>Rangifer tarandus tarandus</i>\n                    )"
@@ -17,6 +46,20 @@
   publisher: Journal of Heredity
   date: '2025-11-03'
   link: https://doi.org/g985w4
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/evolinnean/kzag006
+  title: "\u2018The Ecology of Adaptive Radiation\u2019 revisited: a 25-year reflection"
+  authors:
+  - "Jos\xE9 Cerca"
+  - Daniel Ortiz-Barrientos
+  - Mark Ravinet
+  - Mikael Pontarp
+  - Kay Lucek
+  publisher: Evolutionary Journal of the Linnean Society
+  date: '2026-01-01'
+  link: https://doi.org/hb72nv
   orcid: 0000-0001-7788-4367
   plugin: orcid.py
   file: orcid.yaml
