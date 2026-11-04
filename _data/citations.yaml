@@ -1,5 +1,56 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1111/mec.70587
+  title: "Dating the Colonisation and Source of Adaptive Genetic Variation in the\
+    \ Iago Sparrow (\n                    <i>Passer iagoensis</i>\n              \
+    \      )"
+  authors:
+  - "Jos\xE9 Cerca"
+  - "\xC2ngela M. Ribeiro"
+  - Michael Matschiner
+  - "Rosa Alicia Jim\xE9nez"
+  - Hugo Pereira
+  - Zheng Oong
+  - Gabriel David
+  - Per Unneberg
+  - Yan Wong
+  - Gabriele Maria Sgarlata
+  - Pim Edelaar
+  - "Tom\xE1\u0161 Albrecht"
+  - "Glenn\u2010Peter Saetre"
+  - Pedro Cardia
+  - Augusto Faustino
+  - Evandro P. Lopes
+  - Rauri C. K. Bowie
+  - Mark Ravinet
+  - Martim Melo
+  publisher: Molecular Ecology
+  date: '2026-11-01'
+  link: https://doi.org/hcq6fx
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2604805123
+  title: Chromosomal inversions accelerate genetic evolution and drive ecological
+    speciation across an island gradient
+  authors:
+  - "Ines G\xF3mez-Ramos"
+  - "Rogelio S\xE1nchez-Villegas"
+  - Ashwini V. Mohan
+  - Christophe Lavergne
+  - "Jos\xE9 Cerca"
+  - "Jos\xE9 I. M\xE1rquez-Corro"
+  - "Andr\xE9 Marques"
+  - "Santiago Mart\xEDn-Bravo"
+  - "Modesto Luce\xF1o"
+  - Kay Lucek
+  - Marcial Escudero
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2026-08-12'
+  link: https://doi.org/hcq6fz
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/plb.70227
   title: "Ibero\u2010Balearic plant disjunctions: genomic support for rapid and recurrent\
     \ long\u2010distance colonizations of the endangered\n                    <i>Diplotaxis\
@@ -18,14 +69,20 @@
   orcid: 0000-0001-7788-4367
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/evolinnean/kzag011
-  title: The identity crisis of speciation genomics
+- id: doi:10.1098/rspb.2026.1226
+  title: Hybridization with wild individuals fuels reindeer feralization
   authors:
   - "Jos\xE9 Cerca"
-  - Rike Stelkens
-  publisher: Evolutionary Journal of the Linnean Society
-  date: '2026-06-02'
-  link: https://doi.org/hb72ns
+  - Mark Ravinet
+  - "\xD8ystein Flagstad"
+  - Christer M. Rolandsen
+  - Olav Strand
+  - "Ole Kristian T\xF8rresen"
+  - Kjetill S. Jakobsen
+  - Atle Mysterud
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2026-07-15'
+  link: https://doi.org/hcq6f2
   orcid: 0000-0001-7788-4367
   plugin: orcid.py
   file: orcid.yaml
@@ -46,6 +103,17 @@
   publisher: Journal of Heredity
   date: '2025-11-03'
   link: https://doi.org/g985w4
+  orcid: 0000-0001-7788-4367
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/evolinnean/kzag011
+  title: The identity crisis of speciation genomics
+  authors:
+  - "Jos\xE9 Cerca"
+  - Rike Stelkens
+  publisher: Evolutionary Journal of the Linnean Society
+  date: '2026-01-01'
+  link: https://doi.org/hb72ns
   orcid: 0000-0001-7788-4367
   plugin: orcid.py
   file: orcid.yaml
