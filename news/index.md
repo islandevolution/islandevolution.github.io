@@ -15,6 +15,11 @@ footer: images/hawaii.jpg
 
 ---
 #### 2026
+Nov/26 - Nearly the whole group went to the Island Biology 2026 meeting in Japan. José is not jealous, I promise.
+Nov/26 - New paper out: [Dating the Colonisation and Source of Adaptive Genetic Variation in the Iago Sparrow (Passer iagoensis)](https://onlinelibrary.wiley.com/doi/10.1111/mec.70587)<br>
+Nov/26 - Laura has joined us!<br>
+Sep/26 - New paper out: [Chromosomal inversions accelerate genetic evolution and drive ecological speciation across an island gradient](https://www.pnas.org/doi/10.1073/pnas.2604805123)<br>
+Sep/26 - New paper out: [Hybridization with wild individuals fuels reindeer feralization](https://royalsocietypublishing.org/rspb/article/293/2075/20261226/482533/Hybridization-with-wild-individuals-fuels-reindeer)<br>
 June/26 - Geraldine and Diego defended their thesis, both with an A!<br>
 June/26 - Paper on reindeer published. Link soon<br>
 June/26 - Laura Schat won a fellowship to join us!<br>
