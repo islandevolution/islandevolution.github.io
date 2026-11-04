@@ -2,7 +2,7 @@
 name: Diego Salazar
 image: images/Diego.jpeg
 description: Master student
-role: msc
+role: alumni
 links:
   email: diegors@uio.no
 ---
