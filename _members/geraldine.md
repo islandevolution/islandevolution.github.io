@@ -2,7 +2,7 @@
 name: Geraldine Rueda
 image: images/geral.jpeg
 description: Master student
-role: msc
+role: alumni
 links:
   email: mgmunoz@uio.no
 ---
