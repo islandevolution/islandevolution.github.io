@@ -12,7 +12,6 @@ I am a Postdoc at the Swedish Museum of Natural History.
 **Taxa**
 Mathematical models in MatLab.
 <br>
-**Project description** I am focusing on the theory of adaptive radiation. I am exploring the role of hybridization and recombination, ecological disparity and ecological disturbance in adaptive radiation using theoretical models.
+**Project description** I am focusing on the theory of adaptive radiation. I am exploring the role of hybridization and niche conservatism in adaptive radiation using theoretical models.
 
-**Project collaborators** Mikael Pontarp
-
+**Project collaborators** Mikael Pontarp (RISE)
