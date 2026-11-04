@@ -12,7 +12,7 @@ I am a Postdoc at the Swedish Museum of Natural History.
 **Taxa**
 _Argyranthemum_!
 <br>
-**Project description** I will be focusing on the homoploid hybrid speciation events in _Argyranthemum_ using Ancestral Recombination graph methods.
+**Project description** I am focusing on the homoploid hybrid speciation events in _Argyranthemum_ using Ancestral Recombination graph.
 <br>
-**Project collaborators** Rike Stelkens, Jairo Patiño, Mark Carine, Mark Chapman, Oliver White
+**Project collaborators** Rike Stelkens (Stockholm University), Jairo Patiño (Instituto de Productos Naturales y Agrobiología-CSIC), Mark Carine (Natural History Museum London), Mark Chapman (University of Southampton), Oliver White (Natural History Museum London)
 
