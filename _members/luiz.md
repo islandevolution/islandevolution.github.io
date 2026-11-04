@@ -14,5 +14,5 @@ Amazonian fish
 <br>
 **Project description** I am focusing on the evolution of Amazonian fish
 
-**Co-supervisors and project collaborators** Jonathan Ready, Hugo de Boer, Quentin Mauvisseau
+**Co-supervisors and project collaborators** Jonathan Ready (Universidade Federal do Pará)
 
