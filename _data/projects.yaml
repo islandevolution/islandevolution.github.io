@@ -3,18 +3,29 @@
   group: featured
   image: images/scalesia.jpg
 #  link: https://github.com/
-  description: Using pangenome and population genomics we are studying how Argyranthemum has evolved its two hybrid species.
+  description: Using Pangenome and Ancestral Recombination Graph approaches to study how Argyranthemum evolved its two hybrid species.
   tags:
     - Adaptive radiation
     - Genomics
     - Evolution
+
+- title: Dating colonization of Tribulus
+  subtitle: Are adaptive radiations predictable?
+  group: featured
+  image: images/tribus.JPG
+  description: We are using Ancestral Recombination Graph approaches to determine the colonization of Tribulus. How long have the finches favourite species been on the islands?
+  tags:
+    - Adaptive Radiation
+    - Island biology
+    - Genomics
+
 
 - title: Parallel evolution in Cabo Verde Diplotaxis
   subtitle: Cabo verde Diplotaxis
   group: featured
   image: images/diplotaxis.jpg
 #  link: https://github.com/
-  description: We are exploring parallel evolution in Cabo Verde Diplotaxis!
+  description: We are combining fieldwork, pangenome and ARG approaches to understand the repeated/parallel evolution of Diplotaxis to different climatic niches.
   tags:
     - Adaptive radiation
     - Genomics
@@ -31,25 +42,34 @@
     - Genomics
     - Evolution
 
-- title: Ecological disparity in adaptive radiation
+- title: Niche conservatism in adaptive radiation?
   subtitle: Are adaptive radiations predictable?
   group: featured
-  image: images/finches.jpg
-  description: This is a project focusing on phylogenetic and ecological data
+  image: images/darwin_v1.png
+  description: We are using mathematical modelling to understand how niche conservatism affects an adaptive radiation!
   tags:
     - Adaptive Radiation
     - Island biology
 
-- title: Bottlenecks vs hybridization
-  subtitle: Frasella's MSc thesis
+- title: The tempo of hybridization
+  subtitle: Despeciation or diversification?
+  group: featured
+  image: images/darwin_v1.png
+  description: How does the tempo of hybridization affect the rates of despeciation or diversification?
+  tags:
+    - Adaptive Radiation
+
+
+- title: Can we trust hybridization tests?
+  subtitle: Simulation of ABBA-BABA and f4 statistics
   image: images/finches.jpg
-  description: How do Bottlenecks affect our ability to detect hybridization?
+  description: How does the demographic history, number of samples and SNPs affect common hybridization tests?
   tags:
     - genomics
     - simulation of data
 
 - title: Genetic load in an insular Heliconius
-  subtitle: Geraldine's MSc thesis
+  subtitle: Does a putative hybrid species carry genetic load?
   image: images/heliconius.jpeg
   description: In collaboration with Camilo Salazar and others in U de Rosario we are analysing genetic load in an insular Heliconius species
   tags:
@@ -58,9 +78,9 @@
     - genomics
 
 - title: GWAS your way through
-  subtitle: Diego's MSc thesis
+  subtitle: How many samples do we need for a GWAS?
   image: images/finches.jpg
-  description: We are simulating trait and genomic data to understand the limits of GWAS approaches
+  description: We are simulating trait and genomic data to understand the number of samples required for a GWAS approach.
   tags:
     - simulation of data
     - genomics
